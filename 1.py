@@ -1,7 +1,9 @@
 import streamlit as st 
 
 st.write('Hello World')
+
 'This is magic!'
+
 ['This', 'is', 'magic!']
 
 st.title('Illustrating the Central Limit Theorem with Streamlit') 
